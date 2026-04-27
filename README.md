@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/earlkian.dev-%237C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://earlkian.dev)
-[![Email](https://img.shields.io/badge/earlkian8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earlkian8@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=earlkian&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/earlkian)
+[![Portfolio](https://img.shields.io/badge/earlkian8.dev-%237C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://earlkian8.dev)
+[![Email](https://img.shields.io/badge/earlkian88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earlkian88@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=earlkian8&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/earlkian8)
 
 </div>
 
@@ -17,7 +17,7 @@
 ## `whoami`
 
 ```ts
-const earlkian = {
+const earlkian8 = {
   role:       "Full Stack Developer & Software Engineer",
   company:    "ASEC",
   education:  "BS Information Technology @ Western Mindanao State University",
@@ -85,14 +85,14 @@ const earlkian = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=earlkian&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earlkian&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=earlkian8&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earlkian8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=earlkian&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7C3AED&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=earlkian8&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7C3AED&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
@@ -132,7 +132,7 @@ Apr 2023          Network Intern             @ DICT
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=earlkian&theme=react-dark&bg_color=0d0d1a&color=7C3AED&line=7C3AED&point=A855F7&area=true&area_color=7C3AED&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=earlkian8&theme=react-dark&bg_color=0d0d1a&color=7C3AED&line=7C3AED&point=A855F7&area=true&area_color=7C3AED&hide_border=true"/>
 
 </div>
 
@@ -142,8 +142,8 @@ Apr 2023          Network Intern             @ DICT
 
 **Let's build something worth shipping.**
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://earlkian.dev)
-[![Email](https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earlkian8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://earlkian8.dev)
+[![Email](https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earlkian88@gmail.com)
 
 </div>
 
