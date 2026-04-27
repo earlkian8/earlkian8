@@ -14,22 +14,6 @@
 
 ---
 
-## `whoami`
-
-```ts
-const earlkian8 = {
-  role:       "Full Stack Developer & Software Engineer",
-  company:    "ASEC",
-  education:  "BS Information Technology @ Western Mindanao State University",
-  location:   "Zamboanga City, Philippines 🇵🇭",
-  focus:      ["Web Apps", "Mobile Apps", "Real-time Systems", "API Design"],
-  currentlyBuilding: "Enterprise-grade Project Management System (web + mobile + client portal)",
-  funFact:    "Built a full PMS — from DB schema to 3 frontend apps — mostly solo.",
-};
-```
-
----
-
 ## ⚡ Tech Stack
 
 <details open>
@@ -75,6 +59,7 @@ const earlkian8 = {
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 
 </details>
@@ -102,29 +87,14 @@ const earlkian8 = {
 
 | Project | Stack | Description |
 |---|---|---|
-| 🌿 **GreenSync** | `Laravel` `React` `React Native` `Expo` `MySQL` | Waste management platform with QR collection tracking, route optimization & real-time analytics |
 | 🏗️ **ASEC PMS** | `Laravel` `React` `Inertia.js` `Pusher` `React Native` | Enterprise project management system with billing (PayMongo), inventory, and 3 separate portals |
+| 🌿 **GreenSync** | `Laravel` `React` `React Native` `Expo` `MySQL` | Waste management platform with QR collection tracking, route optimization & real-time analytics |
 | 🎓 **Student Attendance** | `Laravel` `React` `Inertia.js` `Chart.js` | QR-based attendance system with real-time session management and analytics dashboard |
 | 🤖 **QuizNow** | `React` `TypeScript` `Gemini AI` | AI quiz generator from PDFs, DOCX, PPTX — powered by Google Gemini |
 | 💰 **WageFlow** | `PHP` `MySQL` `JavaScript` | Payroll management with multi-status workflows and PDF payslip generation |
 | 📦 **Inventify** | `PHP` `MySQL` `JavaScript` | Inventory + POS system with installment payments, OTP auth, and live stock alerts |
 | 📍 **VibeCheck** | `React Native` `Expo` `NativeWind` | Cross-platform event discovery app with interactive maps and real-time filtering |
 | 🖥️ **KuroAI** | `React` `Electron` `Gemini API` | Desktop AI chatbot built with Electron — dark-themed, markdown-aware chat interface |
-
----
-
-## 🎯 Experience Timeline
-
-```
-Aug 2025 → Now    Software Engineer         @ ASEC
-                  ↳ Built full PMS solo: DB schema → 3 frontend apps → client portal
-
-Jun–Nov 2025      Software Developer Intern  @ Springboard Labs
-                  ↳ 2 client projects · 25% perf improvement · React + Inertia + Laravel
-
-Apr 2023          Network Intern             @ DICT
-                  ↳ Deployed network infra across 4 client locations
-```
 
 ---
 
@@ -143,7 +113,7 @@ Apr 2023          Network Intern             @ DICT
 **Let's build something worth shipping.**
 
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://earlkian8.dev)
-[![Email](https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earlkian88@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earlkian8@gmail.com)
 
 </div>
 
