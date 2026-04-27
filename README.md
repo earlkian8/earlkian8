@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/earlkian8.dev-%237C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://earlkian8.dev)
-[![Email](https://img.shields.io/badge/earlkian88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earlkian88@gmail.com)
+[![Portfolio](https://img.shields.io/badge/earlkian.dev-%237C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://earlkian.dev)
+[![Email](https://img.shields.io/badge/earlkian8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earlkian8@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=earlkian8&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/earlkian8)
 
 </div>
@@ -112,7 +112,7 @@
 
 **Let's build something worth shipping.**
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://earlkian8.dev)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://earlkian.dev)
 [![Email](https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:earlkian8@gmail.com)
 
 </div>
